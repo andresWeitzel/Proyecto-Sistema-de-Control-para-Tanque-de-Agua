@@ -23,7 +23,9 @@
 | 1 Táper/caja plástica para el ordenado del circuito principal(Sala de Control). |
 | 1 Canilla que funciona como desagüe |
 
-| Librerias | Funcion |
+**Librerias**
+
+| Links | Funcion |
 | ------------- | ------------- |
 | https://github.com/andresWeitzel/DHT.h  | Sensor de Temperatura/Humedad |
 | https://github.com/andresWeitzel/LiquidCrystal_I2C.h  | Modulo I2c pantalla LCD   |
