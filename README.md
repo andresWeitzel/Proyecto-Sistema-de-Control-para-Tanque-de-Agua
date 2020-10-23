@@ -1,8 +1,6 @@
 # Proyecto-Sistema-de-Control-para-Tanque-de-Agua
 
-*Sistema de control realizado con un Arduino Mega  y sensores/modulos electronicos*
-
-**Elementos del proyecto:**
+**Sistema de control realizado con un Arduino Mega  y sensores/modulos electronicos**
 
 | Elementos | 
 | ------------- | 
@@ -23,9 +21,8 @@
 | 1 Táper/caja plástica para el ordenado del circuito principal(Sala de Control). |
 | 1 Canilla que funciona como desagüe |
 
-**Librerias**
 
-| Links | Funcion |
+| Librerias| Funcion |
 | ------------- | ------------- |
 | https://github.com/andresWeitzel/DHT.h  | Sensor de Temperatura/Humedad |
 | https://github.com/andresWeitzel/LiquidCrystal_I2C.h  | Modulo I2c pantalla LCD   |
