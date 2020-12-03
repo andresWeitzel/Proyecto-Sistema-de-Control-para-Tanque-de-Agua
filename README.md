@@ -1,8 +1,8 @@
-# Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+# Proyecto Sistema de Control para Tanque de Agua
 
-**Sistema de control realizado con un Arduino Mega  y sensores/modulos electronicos**
+**Sistema de control realizado en Arduino e implementando la placa Arduino Mega  y los siguientes sensores/modulos electrónicos**
 
-| Elementos | 
+| **Elementos** | 
 | ------------- | 
 | 1 Arduino Mega. |
 | 1 Sensor de temperatura/humedad dht11 |
